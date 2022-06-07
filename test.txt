@@ -1,1 +1,0 @@
-This is a test file to confirm that files are uploaded to the network and can be retrieved by any other computer on it given the same HASH
